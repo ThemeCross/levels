@@ -1,0 +1,2357 @@
+{
+  "cols": 13,
+  "rows": 18,
+  "difficulty": "medium",
+  "cells": [
+    {
+      "id": 0,
+      "r": 0,
+      "c": 0,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 1,
+      "r": 0,
+      "c": 1,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 2,
+      "r": 0,
+      "c": 2,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 3,
+      "r": 0,
+      "c": 3,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 4,
+      "r": 0,
+      "c": 4,
+      "val": "",
+      "type": "question",
+      "text": "Математическое увеличение числа",
+      "arrow": "arrow-d-r",
+      "targetWord": "УМНОЖЕНИЕ"
+    },
+    {
+      "id": 5,
+      "r": 0,
+      "c": 5,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 6,
+      "r": 0,
+      "c": 6,
+      "val": "",
+      "type": "question",
+      "text": "Советская военная контрразведка",
+      "arrow": "arrow-l-d",
+      "targetWord": "СМЕРШ"
+    },
+    {
+      "id": 7,
+      "r": 0,
+      "c": 7,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 8,
+      "r": 0,
+      "c": 8,
+      "val": "",
+      "type": "question",
+      "text": "Юный влюблённый из Вероны",
+      "arrow": "arrow-l-d",
+      "targetWord": "РОМЕО"
+    },
+    {
+      "id": 9,
+      "r": 0,
+      "c": 9,
+      "val": "Ч",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 10,
+      "r": 0,
+      "c": 10,
+      "val": "",
+      "type": "question",
+      "text": "Нечистый персонаж сказок",
+      "arrow": "arrow-l-d",
+      "targetWord": "ЧЕРТ"
+    },
+    {
+      "id": 11,
+      "r": 0,
+      "c": 11,
+      "val": "Г",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 12,
+      "r": 0,
+      "c": 12,
+      "val": "",
+      "type": "question",
+      "text": "Торжественная песня страны",
+      "arrow": "arrow-l-d",
+      "targetWord": "ГИМН"
+    },
+    {
+      "id": 13,
+      "r": 1,
+      "c": 0,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 14,
+      "r": 1,
+      "c": 1,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 15,
+      "r": 1,
+      "c": 2,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 16,
+      "r": 1,
+      "c": 3,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 17,
+      "r": 1,
+      "c": 4,
+      "val": "У",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 18,
+      "r": 1,
+      "c": 5,
+      "val": "М",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 19,
+      "r": 1,
+      "c": 6,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 20,
+      "r": 1,
+      "c": 7,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 21,
+      "r": 1,
+      "c": 8,
+      "val": "Ж",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 22,
+      "r": 1,
+      "c": 9,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 23,
+      "r": 1,
+      "c": 10,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 24,
+      "r": 1,
+      "c": 11,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 25,
+      "r": 1,
+      "c": 12,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 26,
+      "r": 2,
+      "c": 0,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 27,
+      "r": 2,
+      "c": 1,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 28,
+      "r": 2,
+      "c": 2,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 29,
+      "r": 2,
+      "c": 3,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 30,
+      "r": 2,
+      "c": 4,
+      "val": "",
+      "type": "question",
+      "text": "Автор чертежей и схем",
+      "arrow": "arrow-d-r",
+      "targetWord": "ПРОЕКТАНТ"
+    },
+    {
+      "id": 31,
+      "r": 2,
+      "c": 5,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 32,
+      "r": 2,
+      "c": 6,
+      "val": "",
+      "type": "question",
+      "text": "Ревнивый герой Шекспира",
+      "arrow": "arrow-d",
+      "targetWord": "ОТЕЛЛО"
+    },
+    {
+      "id": 33,
+      "r": 2,
+      "c": 7,
+      "val": "М",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 34,
+      "r": 2,
+      "c": 8,
+      "val": "",
+      "type": "question",
+      "text": "Сеть жареной курицы",
+      "arrow": "arrow-d",
+      "targetWord": "КФС"
+    },
+    {
+      "id": 35,
+      "r": 2,
+      "c": 9,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 36,
+      "r": 2,
+      "c": 10,
+      "val": "",
+      "type": "question",
+      "text": "Мифический страж с сотней глаз",
+      "arrow": "arrow-d",
+      "targetWord": "АРГУС"
+    },
+    {
+      "id": 37,
+      "r": 2,
+      "c": 11,
+      "val": "М",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 38,
+      "r": 2,
+      "c": 12,
+      "val": "",
+      "type": "question",
+      "text": "Полотно для одежды",
+      "arrow": "arrow-d",
+      "targetWord": "ТКАНЬ"
+    },
+    {
+      "id": 39,
+      "r": 3,
+      "c": 0,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 40,
+      "r": 3,
+      "c": 1,
+      "val": "",
+      "type": "image-part",
+      "text": "S в формуле a × b",
+      "arrow": "arrow-d",
+      "targetWord": "ПЛОЩАДЬ"
+    },
+    {
+      "id": 41,
+      "r": 3,
+      "c": 2,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 42,
+      "r": 3,
+      "c": 3,
+      "val": "",
+      "type": "image-part",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 43,
+      "r": 3,
+      "c": 4,
+      "val": "П",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 44,
+      "r": 3,
+      "c": 5,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 45,
+      "r": 3,
+      "c": 6,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 46,
+      "r": 3,
+      "c": 7,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 47,
+      "r": 3,
+      "c": 8,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 48,
+      "r": 3,
+      "c": 9,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 49,
+      "r": 3,
+      "c": 10,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 50,
+      "r": 3,
+      "c": 11,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 51,
+      "r": 3,
+      "c": 12,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 52,
+      "r": 4,
+      "c": 0,
+      "val": "",
+      "type": "question",
+      "text": "Пьяница в разговорной речи",
+      "arrow": "arrow-d-r",
+      "targetWord": "АЛКАШ"
+    },
+    {
+      "id": 53,
+      "r": 4,
+      "c": 1,
+      "val": "П",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 54,
+      "r": 4,
+      "c": 2,
+      "val": "",
+      "type": "question",
+      "text": "Герой сетевых стишков",
+      "arrow": "arrow-r-d",
+      "targetWord": "ГАВРИЛА"
+    },
+    {
+      "id": 55,
+      "r": 4,
+      "c": 3,
+      "val": "Г",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 56,
+      "r": 4,
+      "c": 4,
+      "val": "",
+      "type": "question",
+      "text": "Зимняя меховая одежда",
+      "arrow": "arrow-d",
+      "targetWord": "ШУБА"
+    },
+    {
+      "id": 57,
+      "r": 4,
+      "c": 5,
+      "val": "Ш",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 58,
+      "r": 4,
+      "c": 6,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 59,
+      "r": 4,
+      "c": 7,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 60,
+      "r": 4,
+      "c": 8,
+      "val": "Ф",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 61,
+      "r": 4,
+      "c": 9,
+      "val": "",
+      "type": "question",
+      "text": "Город оружейников в Удмуртии",
+      "arrow": "arrow-d",
+      "targetWord": "ИЖЕВСК"
+    },
+    {
+      "id": 62,
+      "r": 4,
+      "c": 10,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 63,
+      "r": 4,
+      "c": 11,
+      "val": "",
+      "type": "question",
+      "text": "Моряк рядового состава",
+      "arrow": "arrow-d",
+      "targetWord": "МАТРОС"
+    },
+    {
+      "id": 64,
+      "r": 4,
+      "c": 12,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 65,
+      "r": 5,
+      "c": 0,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 66,
+      "r": 5,
+      "c": 1,
+      "val": "Л",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 67,
+      "r": 5,
+      "c": 2,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 68,
+      "r": 5,
+      "c": 3,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 69,
+      "r": 5,
+      "c": 4,
+      "val": "Ш",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 70,
+      "r": 5,
+      "c": 5,
+      "val": "",
+      "type": "question",
+      "text": "Бутыль для крепкого напитка",
+      "arrow": "arrow-u-r",
+      "targetWord": "ШТОФ"
+    },
+    {
+      "id": 71,
+      "r": 5,
+      "c": 6,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 72,
+      "r": 5,
+      "c": 7,
+      "val": "",
+      "type": "question",
+      "text": "Образ независимого одиночки",
+      "arrow": "arrow-r",
+      "targetWord": "СИГМА"
+    },
+    {
+      "id": 73,
+      "r": 5,
+      "c": 8,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 74,
+      "r": 5,
+      "c": 9,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 75,
+      "r": 5,
+      "c": 10,
+      "val": "Г",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 76,
+      "r": 5,
+      "c": 11,
+      "val": "М",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 77,
+      "r": 5,
+      "c": 12,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 78,
+      "r": 6,
+      "c": 0,
+      "val": "",
+      "type": "question",
+      "text": "Потери после вреда",
+      "arrow": "arrow-d-r",
+      "targetWord": "УЩЕРБ"
+    },
+    {
+      "id": 79,
+      "r": 6,
+      "c": 1,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 80,
+      "r": 6,
+      "c": 2,
+      "val": "",
+      "type": "question",
+      "text": "Прозрачная ткань на лице",
+      "arrow": "arrow-r",
+      "targetWord": "ВУАЛЬ"
+    },
+    {
+      "id": 81,
+      "r": 6,
+      "c": 3,
+      "val": "В",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 82,
+      "r": 6,
+      "c": 4,
+      "val": "У",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 83,
+      "r": 6,
+      "c": 5,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 84,
+      "r": 6,
+      "c": 6,
+      "val": "Л",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 85,
+      "r": 6,
+      "c": 7,
+      "val": "Ь",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 86,
+      "r": 6,
+      "c": 8,
+      "val": "",
+      "type": "question",
+      "text": "Португальское имя Иван",
+      "arrow": "arrow-r",
+      "targetWord": "ЖУАН"
+    },
+    {
+      "id": 87,
+      "r": 6,
+      "c": 9,
+      "val": "Ж",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 88,
+      "r": 6,
+      "c": 10,
+      "val": "У",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 89,
+      "r": 6,
+      "c": 11,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 90,
+      "r": 6,
+      "c": 12,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 91,
+      "r": 7,
+      "c": 0,
+      "val": "У",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 92,
+      "r": 7,
+      "c": 1,
+      "val": "Щ",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 93,
+      "r": 7,
+      "c": 2,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 94,
+      "r": 7,
+      "c": 3,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 95,
+      "r": 7,
+      "c": 4,
+      "val": "Б",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 96,
+      "r": 7,
+      "c": 5,
+      "val": "",
+      "type": "question",
+      "text": "Горький утренний напиток",
+      "arrow": "arrow-d",
+      "targetWord": "КОФЕ"
+    },
+    {
+      "id": 97,
+      "r": 7,
+      "c": 6,
+      "val": "Л",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 98,
+      "r": 7,
+      "c": 7,
+      "val": "",
+      "type": "question",
+      "text": "Обязательный платёж участника",
+      "arrow": "arrow-d",
+      "targetWord": "ВЗНОС"
+    },
+    {
+      "id": 99,
+      "r": 7,
+      "c": 8,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 100,
+      "r": 7,
+      "c": 9,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 101,
+      "r": 7,
+      "c": 10,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 102,
+      "r": 7,
+      "c": 11,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 103,
+      "r": 7,
+      "c": 12,
+      "val": "Ь",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 104,
+      "r": 8,
+      "c": 0,
+      "val": "",
+      "type": "question",
+      "text": "Кумир для поклонников",
+      "arrow": "arrow-d-r",
+      "targetWord": "ИДОЛ"
+    },
+    {
+      "id": 105,
+      "r": 8,
+      "c": 1,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 106,
+      "r": 8,
+      "c": 2,
+      "val": "",
+      "type": "question",
+      "text": "Библейский патриарх",
+      "arrow": "arrow-r",
+      "targetWord": "ИАКОВ"
+    },
+    {
+      "id": 107,
+      "r": 8,
+      "c": 3,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 108,
+      "r": 8,
+      "c": 4,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 109,
+      "r": 8,
+      "c": 5,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 110,
+      "r": 8,
+      "c": 6,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 111,
+      "r": 8,
+      "c": 7,
+      "val": "В",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 112,
+      "r": 8,
+      "c": 8,
+      "val": "",
+      "type": "question",
+      "text": "Разрядиться у батареи",
+      "arrow": "arrow-u-r",
+      "targetWord": "СЕСТЬ"
+    },
+    {
+      "id": 113,
+      "r": 8,
+      "c": 9,
+      "val": "В",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 114,
+      "r": 8,
+      "c": 10,
+      "val": "",
+      "type": "question",
+      "text": "Слова против правды",
+      "arrow": "arrow-d",
+      "targetWord": "ЛОЖЬ"
+    },
+    {
+      "id": 115,
+      "r": 8,
+      "c": 11,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 116,
+      "r": 8,
+      "c": 12,
+      "val": "",
+      "type": "question",
+      "text": "Героиня «Иронии судьбы»",
+      "arrow": "arrow-d",
+      "targetWord": "НАДЯ"
+    },
+    {
+      "id": 117,
+      "r": 9,
+      "c": 0,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 118,
+      "r": 9,
+      "c": 1,
+      "val": "Д",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 119,
+      "r": 9,
+      "c": 2,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 120,
+      "r": 9,
+      "c": 3,
+      "val": "Л",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 121,
+      "r": 9,
+      "c": 4,
+      "val": "",
+      "type": "question",
+      "text": "Авто зарубежного бренда",
+      "arrow": "arrow-d",
+      "targetWord": "ИНОМАРКА"
+    },
+    {
+      "id": 122,
+      "r": 9,
+      "c": 5,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 123,
+      "r": 9,
+      "c": 6,
+      "val": "",
+      "type": "question",
+      "text": "Преграда на пути",
+      "arrow": "arrow-r",
+      "targetWord": "ЗАСЛОН"
+    },
+    {
+      "id": 124,
+      "r": 9,
+      "c": 7,
+      "val": "З",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 125,
+      "r": 9,
+      "c": 8,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 126,
+      "r": 9,
+      "c": 9,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 127,
+      "r": 9,
+      "c": 10,
+      "val": "Л",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 128,
+      "r": 9,
+      "c": 11,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 129,
+      "r": 9,
+      "c": 12,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 130,
+      "r": 10,
+      "c": 0,
+      "val": "",
+      "type": "question",
+      "text": "Лаять мелко и резко",
+      "arrow": "arrow-d",
+      "targetWord": "ТЯВКАТЬ"
+    },
+    {
+      "id": 131,
+      "r": 10,
+      "c": 1,
+      "val": "Ь",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 132,
+      "r": 10,
+      "c": 2,
+      "val": "",
+      "type": "question",
+      "text": "Газета с кроссвордами",
+      "arrow": "arrow-r",
+      "targetWord": "АИФ"
+    },
+    {
+      "id": 133,
+      "r": 10,
+      "c": 3,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 134,
+      "r": 10,
+      "c": 4,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 135,
+      "r": 10,
+      "c": 5,
+      "val": "Ф",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 136,
+      "r": 10,
+      "c": 6,
+      "val": "",
+      "type": "question",
+      "text": "Конус для переливания",
+      "arrow": "arrow-d",
+      "targetWord": "ВОРОНКА"
+    },
+    {
+      "id": 137,
+      "r": 10,
+      "c": 7,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 138,
+      "r": 10,
+      "c": 8,
+      "val": "",
+      "type": "question",
+      "text": "Свидание в современной речи",
+      "arrow": "arrow-d",
+      "targetWord": "ДЕЙТ"
+    },
+    {
+      "id": 139,
+      "r": 10,
+      "c": 9,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 140,
+      "r": 10,
+      "c": 10,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 141,
+      "r": 10,
+      "c": 11,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 142,
+      "r": 10,
+      "c": 12,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 143,
+      "r": 11,
+      "c": 0,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 144,
+      "r": 11,
+      "c": 1,
+      "val": "",
+      "type": "question",
+      "text": "Часть земли или района",
+      "arrow": "arrow-r-d",
+      "targetWord": "УЧАСТОК"
+    },
+    {
+      "id": 145,
+      "r": 11,
+      "c": 2,
+      "val": "У",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 146,
+      "r": 11,
+      "c": 3,
+      "val": "",
+      "type": "question",
+      "text": "Большая рыболовная сеть",
+      "arrow": "arrow-r",
+      "targetWord": "НЕВОД"
+    },
+    {
+      "id": 147,
+      "r": 11,
+      "c": 4,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 148,
+      "r": 11,
+      "c": 5,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 149,
+      "r": 11,
+      "c": 6,
+      "val": "В",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 150,
+      "r": 11,
+      "c": 7,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 151,
+      "r": 11,
+      "c": 8,
+      "val": "Д",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 152,
+      "r": 11,
+      "c": 9,
+      "val": "",
+      "type": "question",
+      "text": "Заплетённые пряди",
+      "arrow": "arrow-u-r",
+      "targetWord": "КОСА"
+    },
+    {
+      "id": 153,
+      "r": 11,
+      "c": 10,
+      "val": "Ж",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 154,
+      "r": 11,
+      "c": 11,
+      "val": "",
+      "type": "question",
+      "text": "Тайная договорённость",
+      "arrow": "arrow-d",
+      "targetWord": "СГОВОР"
+    },
+    {
+      "id": 155,
+      "r": 11,
+      "c": 12,
+      "val": "Д",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 156,
+      "r": 12,
+      "c": 0,
+      "val": "Я",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 157,
+      "r": 12,
+      "c": 1,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 158,
+      "r": 12,
+      "c": 2,
+      "val": "Ч",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 159,
+      "r": 12,
+      "c": 3,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 160,
+      "r": 12,
+      "c": 4,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 161,
+      "r": 12,
+      "c": 5,
+      "val": "",
+      "type": "question",
+      "text": "Неловко ошибиться в речи",
+      "arrow": "arrow-r",
+      "targetWord": "ОСЕЧЬСЯ"
+    },
+    {
+      "id": 162,
+      "r": 12,
+      "c": 6,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 163,
+      "r": 12,
+      "c": 7,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 164,
+      "r": 12,
+      "c": 8,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 165,
+      "r": 12,
+      "c": 9,
+      "val": "Ч",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 166,
+      "r": 12,
+      "c": 10,
+      "val": "Ь",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 167,
+      "r": 12,
+      "c": 11,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 168,
+      "r": 12,
+      "c": 12,
+      "val": "Я",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 169,
+      "r": 13,
+      "c": 0,
+      "val": "В",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 170,
+      "r": 13,
+      "c": 1,
+      "val": "",
+      "type": "question",
+      "text": "Основа омлета в уменьшении",
+      "arrow": "arrow-l-u-r",
+      "targetWord": "ЯИЧКО"
+    },
+    {
+      "id": 171,
+      "r": 13,
+      "c": 2,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 172,
+      "r": 13,
+      "c": 3,
+      "val": "",
+      "type": "question",
+      "text": "Пространство жизни вокруг",
+      "arrow": "arrow-r",
+      "targetWord": "МИР"
+    },
+    {
+      "id": 173,
+      "r": 13,
+      "c": 4,
+      "val": "М",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 174,
+      "r": 13,
+      "c": 5,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 175,
+      "r": 13,
+      "c": 6,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 176,
+      "r": 13,
+      "c": 7,
+      "val": "",
+      "type": "question",
+      "text": "Место, где вещь складывается",
+      "arrow": "arrow-d",
+      "targetWord": "СГИБ"
+    },
+    {
+      "id": 177,
+      "r": 13,
+      "c": 8,
+      "val": "Й",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 178,
+      "r": 13,
+      "c": 9,
+      "val": "",
+      "type": "question",
+      "text": "Союз нефтяных экспортёров",
+      "arrow": "arrow-d",
+      "targetWord": "ОПЕК"
+    },
+    {
+      "id": 179,
+      "r": 13,
+      "c": 10,
+      "val": "",
+      "type": "question",
+      "text": "Женское имя с мягким звучанием",
+      "arrow": "arrow-d",
+      "targetWord": "ЛИНА"
+    },
+    {
+      "id": 180,
+      "r": 13,
+      "c": 11,
+      "val": "Г",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 181,
+      "r": 13,
+      "c": 12,
+      "val": "",
+      "type": "question",
+      "text": "Гавайская миска с рыбой",
+      "arrow": "arrow-d",
+      "targetWord": "ПОКЕ"
+    },
+    {
+      "id": 182,
+      "r": 14,
+      "c": 0,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 183,
+      "r": 14,
+      "c": 1,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 184,
+      "r": 14,
+      "c": 2,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 185,
+      "r": 14,
+      "c": 3,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 186,
+      "r": 14,
+      "c": 4,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 187,
+      "r": 14,
+      "c": 5,
+      "val": "",
+      "type": "question",
+      "text": "Неловкий недотёпа",
+      "arrow": "arrow-r",
+      "targetWord": "ОСТОЛОП"
+    },
+    {
+      "id": 188,
+      "r": 14,
+      "c": 6,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 189,
+      "r": 14,
+      "c": 7,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 190,
+      "r": 14,
+      "c": 8,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 191,
+      "r": 14,
+      "c": 9,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 192,
+      "r": 14,
+      "c": 10,
+      "val": "Л",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 193,
+      "r": 14,
+      "c": 11,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 194,
+      "r": 14,
+      "c": 12,
+      "val": "П",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 195,
+      "r": 15,
+      "c": 0,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 196,
+      "r": 15,
+      "c": 1,
+      "val": "",
+      "type": "question",
+      "text": "Защита головы на стройке",
+      "arrow": "arrow-l-u-r",
+      "targetWord": "КАСКА"
+    },
+    {
+      "id": 197,
+      "r": 15,
+      "c": 2,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 198,
+      "r": 15,
+      "c": 3,
+      "val": "",
+      "type": "question",
+      "text": "Ступень в иерархии",
+      "arrow": "arrow-r",
+      "targetWord": "РАНГ"
+    },
+    {
+      "id": 199,
+      "r": 15,
+      "c": 4,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 200,
+      "r": 15,
+      "c": 5,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 201,
+      "r": 15,
+      "c": 6,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 202,
+      "r": 15,
+      "c": 7,
+      "val": "Г",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 203,
+      "r": 15,
+      "c": 8,
+      "val": "",
+      "type": "question",
+      "text": "Пенный солодовый напиток",
+      "arrow": "arrow-r",
+      "targetWord": "ПИВО"
+    },
+    {
+      "id": 204,
+      "r": 15,
+      "c": 9,
+      "val": "П",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 205,
+      "r": 15,
+      "c": 10,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 206,
+      "r": 15,
+      "c": 11,
+      "val": "В",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 207,
+      "r": 15,
+      "c": 12,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 208,
+      "r": 16,
+      "c": 0,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 209,
+      "r": 16,
+      "c": 1,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 210,
+      "r": 16,
+      "c": 2,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 211,
+      "r": 16,
+      "c": 3,
+      "val": "Я",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 212,
+      "r": 16,
+      "c": 4,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 213,
+      "r": 16,
+      "c": 5,
+      "val": "",
+      "type": "question",
+      "text": "Детёныш морского гиганта",
+      "arrow": "arrow-r",
+      "targetWord": "КИТЕНОК"
+    },
+    {
+      "id": 214,
+      "r": 16,
+      "c": 6,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 215,
+      "r": 16,
+      "c": 7,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 216,
+      "r": 16,
+      "c": 8,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 217,
+      "r": 16,
+      "c": 9,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 218,
+      "r": 16,
+      "c": 10,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 219,
+      "r": 16,
+      "c": 11,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 220,
+      "r": 16,
+      "c": 12,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 221,
+      "r": 17,
+      "c": 0,
+      "val": "Ь",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 222,
+      "r": 17,
+      "c": 1,
+      "val": "",
+      "type": "question",
+      "text": "Удовлетворительная оценка",
+      "arrow": "arrow-l-u-r",
+      "targetWord": "ТРОЯК"
+    },
+    {
+      "id": 223,
+      "r": 17,
+      "c": 2,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 224,
+      "r": 17,
+      "c": 3,
+      "val": "",
+      "type": "question",
+      "text": "Человек арабского мира",
+      "arrow": "arrow-r",
+      "targetWord": "АРАБ"
+    },
+    {
+      "id": 225,
+      "r": 17,
+      "c": 4,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 226,
+      "r": 17,
+      "c": 5,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 227,
+      "r": 17,
+      "c": 6,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 228,
+      "r": 17,
+      "c": 7,
+      "val": "Б",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 229,
+      "r": 17,
+      "c": 8,
+      "val": "",
+      "type": "question",
+      "text": "Стрижка до линии подбородка",
+      "arrow": "arrow-r",
+      "targetWord": "КАРЕ"
+    },
+    {
+      "id": 230,
+      "r": 17,
+      "c": 9,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 231,
+      "r": 17,
+      "c": 10,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 232,
+      "r": 17,
+      "c": 11,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 233,
+      "r": 17,
+      "c": 12,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "r1": 0,
+      "c1": 0,
+      "r2": 3,
+      "c2": 3,
+      "url": "data:image/png;base64,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"
+    }
+  ]
+}
