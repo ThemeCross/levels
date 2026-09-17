@@ -1,7 +1,9 @@
 {
+  "type": "scanword_project",
+  "version": 2,
   "cols": 13,
   "rows": 18,
-  "difficulty": "hard",
+  "difficulty": "medium",
   "cells": [
     {
       "id": 0,
@@ -666,9 +668,9 @@
       "c": 6,
       "val": "",
       "type": "question",
-      "text": "В возрасте зрелости",
+      "text": "Черно-белая говорливая птица",
       "arrow": "arrow-d",
-      "targetWord": "СОРОКАЛЕТНИЙ"
+      "targetWord": "СОРОКА"
     },
     {
       "id": 72,
@@ -1514,8 +1516,8 @@
       "id": 162,
       "r": 12,
       "c": 6,
-      "val": "Л",
-      "type": "letter",
+      "val": "",
+      "type": "block",
       "text": "",
       "arrow": ""
     },
