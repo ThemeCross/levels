@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "en",
-  "count": 109,
+  "count": 119,
   "levels": [
     {
       "id": "16-3-en",
@@ -1240,6 +1240,18 @@
       "sha256": "1f2c6650b01ad075bcbf1ec23d03b5a327cbb50bebb2f57f49e5a9fb99baee92"
     },
     {
+      "id": "29-2-en",
+      "language": "en",
+      "path": "levels/EN/29-2-en.json",
+      "filename": "29-2-en.json",
+      "difficulty": "medium",
+      "rows": 18,
+      "cols": 13,
+      "letterCellCount": 169,
+      "version": 2,
+      "sha256": "ae7f1de9bddd448fec00fa7014b67f457f41e6162716572e5f2e1bc2a1e20faa"
+    },
+    {
       "id": "25-1-en",
       "language": "en",
       "path": "levels/EN/25-1-en.json",
@@ -1262,18 +1274,6 @@
       "letterCellCount": 165,
       "version": 2,
       "sha256": "98a73ba235f11e5eff3c1b3825e91f51a1a66d49f1200b2cc3c757e0f29f378d"
-    },
-    {
-      "id": "29-2-en",
-      "language": "en",
-      "path": "levels/EN/29-2-en.json",
-      "filename": "29-2-en.json",
-      "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 169,
-      "version": 2,
-      "sha256": "ae7f1de9bddd448fec00fa7014b67f457f41e6162716572e5f2e1bc2a1e20faa"
     },
     {
       "id": "33-1-en",
@@ -1310,6 +1310,126 @@
       "letterCellCount": 190,
       "version": 2,
       "sha256": "0cd0fee3970b4014d623a9958dd4cf0cbe436f3a14b3bede5480bce66afe1a52"
+    },
+    {
+      "id": "4-3-en",
+      "language": "en",
+      "path": "levels/EN/4-3-en.json",
+      "filename": "4-3-en.json",
+      "difficulty": "medium",
+      "rows": 19,
+      "cols": 15,
+      "letterCellCount": 193,
+      "version": 2,
+      "sha256": "d21975029e83887453de1043f6ef55a7e125f276f497086c8e122f33ee201b58"
+    },
+    {
+      "id": "31-3-en",
+      "language": "en",
+      "path": "levels/EN/31-3-en.json",
+      "filename": "31-3-en.json",
+      "difficulty": "medium",
+      "rows": 23,
+      "cols": 10,
+      "letterCellCount": 165,
+      "version": 2,
+      "sha256": "dedb0ca292282cd4aac6e7474e35a74a4ffb3263eca9b39ef7e73162b261f9c8"
+    },
+    {
+      "id": "22-3-en",
+      "language": "en",
+      "path": "levels/EN/22-3-en.json",
+      "filename": "22-3-en.json",
+      "difficulty": "medium",
+      "rows": 18,
+      "cols": 13,
+      "letterCellCount": 166,
+      "version": 2,
+      "sha256": "688f6e9f351eca63cee9fc9a7d0644c5ec4d7a4381f479a72111a38493784fa1"
+    },
+    {
+      "id": "32-1-en",
+      "language": "en",
+      "path": "levels/EN/32-1-en.json",
+      "filename": "32-1-en.json",
+      "difficulty": "medium",
+      "rows": 13,
+      "cols": 19,
+      "letterCellCount": 177,
+      "version": 2,
+      "sha256": "6e62a98bbce6baed35e7bbcc8a9de5fee74a339f3388f787b50a3b7770849de9"
+    },
+    {
+      "id": "5-3-en",
+      "language": "en",
+      "path": "levels/EN/5-3-en.json",
+      "filename": "5-3-en.json",
+      "difficulty": "medium",
+      "rows": 18,
+      "cols": 13,
+      "letterCellCount": 167,
+      "version": 2,
+      "sha256": "1235bff67c9cbff8a3d046c0de7156a2139a491a5c755a7c7a3712868533b10f"
+    },
+    {
+      "id": "26-3-en",
+      "language": "en",
+      "path": "levels/EN/26-3-en.json",
+      "filename": "26-3-en.json",
+      "difficulty": "medium",
+      "rows": 18,
+      "cols": 12,
+      "letterCellCount": 154,
+      "version": 2,
+      "sha256": "7b94450ca252e1523aefeed9e2fe1285a3174d49245890a83cedd55af46bdd36"
+    },
+    {
+      "id": "12-2-en",
+      "language": "en",
+      "path": "levels/EN/12-2-en.json",
+      "filename": "12-2-en.json",
+      "difficulty": "medium",
+      "rows": 16,
+      "cols": 16,
+      "letterCellCount": 185,
+      "version": 2,
+      "sha256": "ea09a13d6b2dd84451c05e33df99688ad1c8ed8d24bf11db6c30b4d4b26da4be"
+    },
+    {
+      "id": "17-3-en",
+      "language": "en",
+      "path": "levels/EN/17-3-en.json",
+      "filename": "17-3-en.json",
+      "difficulty": "medium",
+      "rows": 10,
+      "cols": 26,
+      "letterCellCount": 172,
+      "version": 2,
+      "sha256": "4d207bbe1b8fb8855260b393170ad22618a192a81a160516f1f14d2b5dde0d50"
+    },
+    {
+      "id": "18-4-en",
+      "language": "en",
+      "path": "levels/EN/18-4-en.json",
+      "filename": "18-4-en.json",
+      "difficulty": "medium",
+      "rows": 12,
+      "cols": 18,
+      "letterCellCount": 147,
+      "version": 2,
+      "sha256": "b6e7523a3c04d17d87cee8f32eac11c85c840acf2d510eb87b22747cbc5b983d"
+    },
+    {
+      "id": "9-4-en",
+      "language": "en",
+      "path": "levels/EN/9-4-en.json",
+      "filename": "9-4-en.json",
+      "difficulty": "medium",
+      "rows": 18,
+      "cols": 13,
+      "letterCellCount": 166,
+      "version": 2,
+      "sha256": "413832bdf652861c20c22cfc8d6ca52b0eab40b9aeeacbfc83c174bafb21704d"
     }
   ]
 }
