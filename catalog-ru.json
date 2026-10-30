@@ -2,6 +2,7 @@
   "version": 1,
   "language": "ru",
   "count": 204,
+  "catalogVersion": "ru-v1-replacements-20261030",
   "levels": [
     {
       "id": "10-2",
@@ -45,11 +46,11 @@
       "path": "levels/RU/3-6.json",
       "filename": "3-6.json",
       "difficulty": "medium",
-      "rows": 10,
-      "cols": 14,
-      "letterCellCount": 95,
-      "version": null,
-      "sha256": "45a29835a4dc8466855c05af13c5c1bb2727bb48fd6594d3f0540006f46258fa"
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 102,
+      "version": 2,
+      "sha256": "b21d42853fb88f9b13a2867f2f930c0c435816323bb15ce9d3680bf45273bf14"
     },
     {
       "id": "10-5",
@@ -57,11 +58,11 @@
       "path": "levels/RU/10-5.json",
       "filename": "10-5.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 167,
+      "rows": 16,
+      "cols": 10,
+      "letterCellCount": 119,
       "version": 2,
-      "sha256": "97f6ef37b30001568489f5058b88ff2f32ed2ec7467e0c4d38ecd3be06e8f282"
+      "sha256": "a8ace1b76a25275657040f98142e37e56e7a5f2b44ed4c014b0bc6d328037638"
     },
     {
       "id": "25-6",
@@ -105,11 +106,11 @@
       "path": "levels/RU/19-2.json",
       "filename": "19-2.json",
       "difficulty": "medium",
-      "rows": 10,
-      "cols": 20,
-      "letterCellCount": 140,
-      "version": null,
-      "sha256": "b53465813c7d2a563e61949eddfa4d3358659b62e429ea8abaa58b035d73daff"
+      "rows": 18,
+      "cols": 13,
+      "letterCellCount": 159,
+      "version": 2,
+      "sha256": "6004bd1f57914849bc55e3a05f02fdff9dd67e82b7f6c4511b99e3e4b0c42ba4"
     },
     {
       "id": "13-2",
@@ -117,11 +118,11 @@
       "path": "levels/RU/13-2.json",
       "filename": "13-2.json",
       "difficulty": "medium",
-      "rows": 16,
-      "cols": 12,
-      "letterCellCount": 132,
-      "version": null,
-      "sha256": "b844c51a9ff38e2ca91156e12878bd632edaa7e3865ec5eea31615d5b929bc1b"
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 110,
+      "version": 2,
+      "sha256": "9d4d7c1c0bf2522264e80a013c98be02d6f8936a0ff4092178fab8b93e12f82a"
     },
     {
       "id": "8-3",
@@ -129,11 +130,11 @@
       "path": "levels/RU/8-3.json",
       "filename": "8-3.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 167,
-      "version": null,
-      "sha256": "4cfdc6e43d4289c8a5dbcf01ed2f643842f06b7f1b455092b44f539b0bc2a2e4"
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 103,
+      "version": 2,
+      "sha256": "cb9787ca1f2ad7e5ef77f7915133c3ee43b6adec892dce89a14d3005832d0ea6"
     },
     {
       "id": "21-1",
@@ -167,9 +168,9 @@
       "difficulty": "medium",
       "rows": 18,
       "cols": 13,
-      "letterCellCount": 169,
-      "version": null,
-      "sha256": "6479e99d01bf4ddbeddfc056e76959ed76a0a09c4ef47e856353b1d93c820495"
+      "letterCellCount": 161,
+      "version": 2,
+      "sha256": "6ffb67f33ef3ae92bbf31619923600f82212445b0c60f2160daa02474499143e"
     },
     {
       "id": "3-5",
@@ -213,11 +214,11 @@
       "path": "levels/RU/4-4.json",
       "filename": "4-4.json",
       "difficulty": "medium",
-      "rows": 19,
-      "cols": 15,
-      "letterCellCount": 193,
-      "version": null,
-      "sha256": "42650b18fb1be205ad4f593c768a6c823d8167af30da91c88caba81571d4256f"
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 102,
+      "version": 2,
+      "sha256": "bf4a300b7aa3d5078971c3bd64d864188c8f3be86726f5c10181fc2d8bc89a91"
     },
     {
       "id": "5-2",
@@ -296,12 +297,12 @@
       "language": "ru",
       "path": "levels/RU/4-7.json",
       "filename": "4-7.json",
-      "difficulty": "very hard",
-      "rows": 19,
-      "cols": 15,
-      "letterCellCount": 193,
-      "version": null,
-      "sha256": "a0808c4ed630defac3428e3f42dffa73eccf9a0c0441a8b00be34c007682e6c2"
+      "difficulty": "medium",
+      "rows": 18,
+      "cols": 13,
+      "letterCellCount": 161,
+      "version": 2,
+      "sha256": "145657839b893cdb7ade94adc2da303e4599706c5a86bd5c8706a0ddcd1a9a4f"
     },
     {
       "id": "6-1",
@@ -332,12 +333,12 @@
       "language": "ru",
       "path": "levels/RU/3-1.json",
       "filename": "3-1.json",
-      "difficulty": "hard",
-      "rows": 10,
-      "cols": 14,
-      "letterCellCount": 94,
-      "version": null,
-      "sha256": "ef5d1b9e59026742c4f25c5c7f2bcd16299e4da139ff23c6a91c7cea0c525a9f"
+      "difficulty": "medium",
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 102,
+      "version": 2,
+      "sha256": "15c4c77775c23094cee1453a12950486c7b98051070d99dd385cc9c61fe2b0ce"
     },
     {
       "id": "11-1",
@@ -357,11 +358,11 @@
       "path": "levels/RU/12-3.json",
       "filename": "12-3.json",
       "difficulty": "medium",
-      "rows": 16,
-      "cols": 12,
-      "letterCellCount": 132,
-      "version": null,
-      "sha256": "36c0cccd834c5278a4acbc63269714a48bfaad1edd673505bb15b7651eccbd1a"
+      "rows": 18,
+      "cols": 13,
+      "letterCellCount": 159,
+      "version": 2,
+      "sha256": "f350f2701b0316112a0b4c436f43ec78b642f632640028f36511d2e22ba43fed"
     },
     {
       "id": "7-2",
@@ -369,23 +370,23 @@
       "path": "levels/RU/7-2.json",
       "filename": "7-2.json",
       "difficulty": "medium",
-      "rows": 10,
-      "cols": 24,
-      "letterCellCount": 170,
-      "version": null,
-      "sha256": "a44f7775a9fabcc1ac4b8a7303f38d3746e38209b376d9d905e17559493c43c8"
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 102,
+      "version": 2,
+      "sha256": "9b25b0a861df10d88b9d7e0b0dbbe39e265059134b81798ccff1ceabdb941822"
     },
     {
       "id": "10-3",
       "language": "ru",
       "path": "levels/RU/10-3.json",
       "filename": "10-3.json",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "rows": 18,
       "cols": 13,
-      "letterCellCount": 168,
-      "version": null,
-      "sha256": "b4891f12901dc24d61084a761ff632831991dad3d9f61f1afecdaeaf004fc98f"
+      "letterCellCount": 160,
+      "version": 2,
+      "sha256": "abf1df66691e195ec7bbafad794b3af7259f522e504e9190be4f689230153b3c"
     },
     {
       "id": "26-6",
@@ -501,11 +502,11 @@
       "path": "levels/RU/22-3.json",
       "filename": "22-3.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 166,
-      "version": null,
-      "sha256": "be94af2339a5197f064be5155d0b0c4498717bc4952d1dc13bc08cee70fdbdaf"
+      "rows": 10,
+      "cols": 20,
+      "letterCellCount": 139,
+      "version": 2,
+      "sha256": "f1abc5d4d33bf179ee10e68d297320ffde176a2203df5b0e3958bb488b8cbe14"
     },
     {
       "id": "20-2",
@@ -572,12 +573,12 @@
       "language": "ru",
       "path": "levels/RU/22-5.json",
       "filename": "22-5.json",
-      "difficulty": "hard",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 166,
-      "version": null,
-      "sha256": "4f6d8279adb090e5c366b8cc1f4de82c6735f6c98baa3c465d3ef4d963e88c11"
+      "difficulty": "medium",
+      "rows": 10,
+      "cols": 24,
+      "letterCellCount": 169,
+      "version": 2,
+      "sha256": "93307a3f03ad06625b4e55399fd8f172ea2d38520bdde7bc1cb279ce9e98e08a"
     },
     {
       "id": "4-2",
@@ -613,7 +614,7 @@
       "cols": 13,
       "letterCellCount": 167,
       "version": null,
-      "sha256": "8c6c01ade9bf2d440f257630d91653c6b401b7c1e60d0a4517d16bc1e4c7dc07"
+      "sha256": "95edfab6997253bd637d7f440cdf6a69cd3ca888b5aea66439ca327f80b69f4e"
     },
     {
       "id": "1-3",
@@ -644,12 +645,12 @@
       "language": "ru",
       "path": "levels/RU/15-3.json",
       "filename": "15-3.json",
-      "difficulty": "hard",
-      "rows": 18,
+      "difficulty": "medium",
+      "rows": 10,
       "cols": 20,
-      "letterCellCount": 236,
-      "version": null,
-      "sha256": "adc76b4cdcf48000c9bd1f52133cc36563f3bdde6a1f002bc1e2f3b1f2ee509c"
+      "letterCellCount": 139,
+      "version": 2,
+      "sha256": "de7c1f3d29075da5178a9313d217f2bd17c95a6c01fcb221dc44e5d2e1c78c98"
     },
     {
       "id": "21-8",
@@ -693,11 +694,11 @@
       "path": "levels/RU/16-2.json",
       "filename": "16-2.json",
       "difficulty": "medium",
-      "rows": 12,
-      "cols": 10,
-      "letterCellCount": 81,
-      "version": null,
-      "sha256": "72e543ed123c59a41891e5df7f9191ab898c6a9c88b94d95cc9b5cfc25381a25"
+      "rows": 10,
+      "cols": 24,
+      "letterCellCount": 169,
+      "version": 2,
+      "sha256": "35d27ef87540aad85dc67757342e2d8cb065d427fe4b355c203125eb3b2096d4"
     },
     {
       "id": "4-5",
@@ -705,23 +706,23 @@
       "path": "levels/RU/4-5.json",
       "filename": "4-5.json",
       "difficulty": "medium",
-      "rows": 19,
-      "cols": 15,
-      "letterCellCount": 193,
-      "version": null,
-      "sha256": "956bfbce0849695ff023c3c8b72118ddfac2884b1e53ae29466741c2987aa0f1"
+      "rows": 18,
+      "cols": 13,
+      "letterCellCount": 160,
+      "version": 2,
+      "sha256": "f54a3459f791227c6a77d370f042ff3814a91ee3f3796149b4cce76edfd05c89"
     },
     {
       "id": "17-1",
       "language": "ru",
       "path": "levels/RU/17-1.json",
       "filename": "17-1.json",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "rows": 10,
-      "cols": 26,
-      "letterCellCount": 172,
-      "version": null,
-      "sha256": "77747f196bffda2e199e1b6de3edaa7f2bd10893a486be7a95157007a2363340"
+      "cols": 24,
+      "letterCellCount": 167,
+      "version": 2,
+      "sha256": "2a5b7dcd85eae0398ac0f19240c6536f7678b902ec952994b422f7a26a719ce8"
     },
     {
       "id": "25-3",
@@ -741,11 +742,11 @@
       "path": "levels/RU/4-3.json",
       "filename": "4-3.json",
       "difficulty": "medium",
-      "rows": 19,
-      "cols": 15,
-      "letterCellCount": 193,
-      "version": null,
-      "sha256": "13f774134d9206702219b988b72ea89a4a6ab18dfbdd2a30e990e6a2d1ba9969"
+      "rows": 18,
+      "cols": 13,
+      "letterCellCount": 158,
+      "version": 2,
+      "sha256": "35091a3dea60775495eb1cf119ad59d888622b2cd513c740203e36a8a432efcf"
     },
     {
       "id": "25-4",
@@ -801,11 +802,11 @@
       "path": "levels/RU/20-6.json",
       "filename": "20-6.json",
       "difficulty": "medium",
-      "rows": 12,
-      "cols": 18,
-      "letterCellCount": 158,
-      "version": null,
-      "sha256": "4669037fad68950e11aaa85f9d1c989b2545f8fe441bfef109fc91cd39acbec6"
+      "rows": 10,
+      "cols": 20,
+      "letterCellCount": 142,
+      "version": 2,
+      "sha256": "86cf522c47468793ed9a28ce554c8748f857d1889a35de28a678c88f9856e0ae"
     },
     {
       "id": "8-1",
@@ -813,11 +814,11 @@
       "path": "levels/RU/8-1.json",
       "filename": "8-1.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 167,
-      "version": null,
-      "sha256": "9de1ccb70d2d12a4aca2a0d90c599bbdeebe8476a5ac1f7863b86cb724bd9d98"
+      "rows": 10,
+      "cols": 24,
+      "letterCellCount": 170,
+      "version": 2,
+      "sha256": "27a8ff1a591cc7d6f9df6f2dbfb75a9906f6543140924b3da8e567cfd6f06f78"
     },
     {
       "id": "18-3",
@@ -837,11 +838,11 @@
       "path": "levels/RU/14-1.json",
       "filename": "14-1.json",
       "difficulty": "medium",
-      "rows": 16,
-      "cols": 12,
-      "letterCellCount": 132,
-      "version": null,
-      "sha256": "61ff1674aa98faef428f87573087a50273c960cb7f908aebcc58558bf2ecb505"
+      "rows": 15,
+      "cols": 11,
+      "letterCellCount": 117,
+      "version": 2,
+      "sha256": "fea08dc46e6de76a202e4a45831700cbedf76eb9d85fba97ab574c746dc5bc16"
     },
     {
       "id": "9-3",
@@ -897,11 +898,11 @@
       "path": "levels/RU/10-4.json",
       "filename": "10-4.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 168,
-      "version": null,
-      "sha256": "5c1cae62e5c626ae0c7c5143defc18e4444f73102e3171b90a20e7c659d513d1"
+      "rows": 15,
+      "cols": 11,
+      "letterCellCount": 117,
+      "version": 2,
+      "sha256": "e306ed81b2468fa35cd1bc00aa2a815fb7d73b3f95f9e11f276b15c19de0ef9a"
     },
     {
       "id": "23-4",
@@ -920,12 +921,12 @@
       "language": "ru",
       "path": "levels/RU/10-1.json",
       "filename": "10-1.json",
-      "difficulty": "hard",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 168,
-      "version": null,
-      "sha256": "3ee6f159758350235f221208bf8274e28dd5c218a0e422266a3dbf79f5a592e8"
+      "difficulty": "medium",
+      "rows": 15,
+      "cols": 7,
+      "letterCellCount": 78,
+      "version": 2,
+      "sha256": "18ff516d70884a81420dbd523563bc06f1c30e553e33445016eb82e6737409d1"
     },
     {
       "id": "9-1",
@@ -981,23 +982,23 @@
       "path": "levels/RU/15-1.json",
       "filename": "15-1.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 20,
-      "letterCellCount": 236,
-      "version": null,
-      "sha256": "8b8a8dee179203f528c7a37a83e0ac4dc832a5337ed057b734d6e4e541464908"
+      "rows": 15,
+      "cols": 11,
+      "letterCellCount": 122,
+      "version": 2,
+      "sha256": "971adf8de94377af7d15b17ea332a272d865285147f3e690efda0845c1ffa80e"
     },
     {
       "id": "1-2",
       "language": "ru",
       "path": "levels/RU/1-2.json",
       "filename": "1-2.json",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "rows": 15,
-      "cols": 19,
-      "letterCellCount": 193,
-      "version": null,
-      "sha256": "96e92fca904338976839a19e47e51759e0ba885549e2b65e196061d37009ec32"
+      "cols": 11,
+      "letterCellCount": 112,
+      "version": 2,
+      "sha256": "635d87766a45d81c4880879d8c024c739fc2cdbf5d517539149b58cfb4c6fbd4"
     },
     {
       "id": "23-2",
@@ -1053,11 +1054,11 @@
       "path": "levels/RU/4-6.json",
       "filename": "4-6.json",
       "difficulty": "medium",
-      "rows": 19,
-      "cols": 15,
-      "letterCellCount": 193,
-      "version": null,
-      "sha256": "c71b7b2fc69f70a7439e72fe9b4b81dcdee06eb6dd8d23eafd37e727e8d0b886"
+      "rows": 15,
+      "cols": 11,
+      "letterCellCount": 117,
+      "version": 2,
+      "sha256": "803eb943e635da4d7eecd9d4ae8aa684c3e9521acb9af735a78ca05bc9191402"
     },
     {
       "id": "2-3",
@@ -1065,11 +1066,11 @@
       "path": "levels/RU/2-3.json",
       "filename": "2-3.json",
       "difficulty": "medium",
-      "rows": 12,
-      "cols": 18,
-      "letterCellCount": 147,
-      "version": null,
-      "sha256": "13754f5b583ce86a3f88a4498cc854af896d785aee1b78d3d75a5a12981be3aa"
+      "rows": 15,
+      "cols": 7,
+      "letterCellCount": 79,
+      "version": 2,
+      "sha256": "20b0bf3269f183a4f78287c5f15121524edb57134aabee2691a29f7cf5847fdb"
     },
     {
       "id": "25-2",
@@ -1233,11 +1234,11 @@
       "path": "levels/RU/8-2.json",
       "filename": "8-2.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 167,
-      "version": null,
-      "sha256": "ec5ef3d63ab15f31260d9f8532e2c816c4c5a011a8b7a793e9779ed0c3824de2"
+      "rows": 15,
+      "cols": 11,
+      "letterCellCount": 123,
+      "version": 2,
+      "sha256": "f87803e4482955d05a57f4ef632ca2f3527180c6cc18241f6ce0d7e3f42e31ac"
     },
     {
       "id": "1-4",
@@ -1257,23 +1258,23 @@
       "path": "levels/RU/3-7.json",
       "filename": "3-7.json",
       "difficulty": "medium",
-      "rows": 10,
-      "cols": 14,
-      "letterCellCount": 95,
-      "version": null,
-      "sha256": "2044caef5b770828fb822084b85096afb2da968b523067cfcf8320c312ccf742"
+      "rows": 15,
+      "cols": 11,
+      "letterCellCount": 113,
+      "version": 2,
+      "sha256": "c7c4e0e216c1614fa45ebe96665788fd46c38ebb493d51e29dc4fa3a1a70a09f"
     },
     {
       "id": "4-9",
       "language": "ru",
       "path": "levels/RU/4-9.json",
       "filename": "4-9.json",
-      "difficulty": "hard",
-      "rows": 19,
-      "cols": 15,
-      "letterCellCount": 193,
-      "version": null,
-      "sha256": "63d0bf672aa41553d899e7bfea7f6c48c3df9d64a3bc3455657bbb40cac3b690"
+      "difficulty": "medium",
+      "rows": 15,
+      "cols": 7,
+      "letterCellCount": 78,
+      "version": 2,
+      "sha256": "a45dc5b0ca35ebd18ba5a4b6655e739f555695a45a45c028dc637b9c9b168dc5"
     },
     {
       "id": "1-5",
@@ -1292,48 +1293,48 @@
       "language": "ru",
       "path": "levels/RU/3-8.json",
       "filename": "3-8.json",
-      "difficulty": "hard",
-      "rows": 10,
-      "cols": 14,
-      "letterCellCount": 95,
-      "version": null,
-      "sha256": "a0326cde8584c54cfd9d9b394a4b40cd072e12fd56fb4a663596547010094ac9"
+      "difficulty": "medium",
+      "rows": 15,
+      "cols": 11,
+      "letterCellCount": 107,
+      "version": 2,
+      "sha256": "88ac1f72cb711df8b568d3c1189904e11f4d0da569fb45c114ea0a182223bd42"
     },
     {
       "id": "5-5",
       "language": "ru",
       "path": "levels/RU/5-5.json",
       "filename": "5-5.json",
-      "difficulty": "hard",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 167,
-      "version": null,
-      "sha256": "5509e0d0370b2b740185a902e986f848dc13b776f5289ca09788de6eb9d6b840"
+      "difficulty": "medium",
+      "rows": 15,
+      "cols": 11,
+      "letterCellCount": 123,
+      "version": 2,
+      "sha256": "11662b7fb750fe8371c5c40db3cbc29dd343001538a08675139959cde1500324"
     },
     {
       "id": "4-8",
       "language": "ru",
       "path": "levels/RU/4-8.json",
       "filename": "4-8.json",
-      "difficulty": "hard",
-      "rows": 19,
-      "cols": 15,
-      "letterCellCount": 193,
-      "version": null,
-      "sha256": "29ef9a5c4b60c2dfd564756e0e8640bc836384b8cdea5b1f1a7a10c85021e376"
+      "difficulty": "medium",
+      "rows": 15,
+      "cols": 7,
+      "letterCellCount": 77,
+      "version": 2,
+      "sha256": "b5591c4c4fe80c4c497736195594ff8182b2db236fd89b8dc84ef4dacaa3b4cd"
     },
     {
       "id": "3-9",
       "language": "ru",
       "path": "levels/RU/3-9.json",
       "filename": "3-9.json",
-      "difficulty": "hard",
-      "rows": 10,
-      "cols": 14,
-      "letterCellCount": 95,
-      "version": null,
-      "sha256": "80228203c8ffe79936f7ec3dfbf5928ef34f6e38e350ff23fe779bbce54a2066"
+      "difficulty": "medium",
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 105,
+      "version": 2,
+      "sha256": "592b9769a23b9cf4cd7d5c0fcd6db6a21f649564d1bf220a1fb9cf7819555448"
     },
     {
       "id": "5-6",
@@ -1341,11 +1342,11 @@
       "path": "levels/RU/5-6.json",
       "filename": "5-6.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 167,
-      "version": null,
-      "sha256": "8a13d7399bba302910886426e966fed4e17ad1edad10c2b4523e77b373d36997"
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 97,
+      "version": 2,
+      "sha256": "0fd944625342fdc7f1260b6ed3588e0b8ce404252375e816168ed040b62001c8"
     },
     {
       "id": "1-9",
@@ -1401,11 +1402,11 @@
       "path": "levels/RU/21-9.json",
       "filename": "21-9.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 169,
-      "version": null,
-      "sha256": "9f572513aa7391401f5183ec85ded801d3db215f3783275ee5f9da03f7fd45f7"
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 97,
+      "version": 2,
+      "sha256": "117371fdaa6008850bb8c493b3540aff4f9bb655b90e1368816f66d4927eaf23"
     },
     {
       "id": "29-1",
@@ -1473,11 +1474,11 @@
       "path": "levels/RU/19-6.json",
       "filename": "19-6.json",
       "difficulty": "medium",
-      "rows": 10,
-      "cols": 20,
-      "letterCellCount": 140,
-      "version": null,
-      "sha256": "cf152f3d4afadb0e2013e67df026fc57cabe723538def5132848f8b3b08547da"
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 97,
+      "version": 2,
+      "sha256": "43d0b91025658bfe019f6d31615a742a82edbc3c104aa9360e52529ead1aef1c"
     },
     {
       "id": "22-9",
@@ -1569,11 +1570,11 @@
       "path": "levels/RU/22-8.json",
       "filename": "22-8.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 166,
-      "version": null,
-      "sha256": "4b3e456420879a7b4b5d35442abecd402306d06c8bec7ea8da31e02163747010"
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 101,
+      "version": 2,
+      "sha256": "6547292427bd326ca3c413ae82f864378627b1e3d28bb48e1bd89569c6471287"
     },
     {
       "id": "28-2",
@@ -1652,12 +1653,12 @@
       "language": "ru",
       "path": "levels/RU/30-3.json",
       "filename": "30-3.json",
-      "difficulty": "easy",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 170,
+      "difficulty": "medium",
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 110,
       "version": 2,
-      "sha256": "7005a4e8fdfae7156cb76a26db715ebda3baaafa2b45c17f1d98b831fbc75eb1"
+      "sha256": "546ffa10321105a520eb34c1ea0d7c6295afeb931400c9ec0a8ae0d0f07691ba"
     },
     {
       "id": "34-1",
@@ -1665,11 +1666,11 @@
       "path": "levels/RU/34-1.json",
       "filename": "34-1.json",
       "difficulty": "medium",
-      "rows": 16,
-      "cols": 16,
-      "letterCellCount": 184,
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 110,
       "version": 2,
-      "sha256": "39570bdf8ea09d0ecaa5eaeb78d841abcad0ed4938e139a6a0a5cc1c6fbdcdae"
+      "sha256": "ad07b2e196b7338179df1d2ab9fed389d0f3cef7bb27e8c9bb500f4bc2cabec9"
     },
     {
       "id": "29-5",
@@ -1857,11 +1858,11 @@
       "path": "levels/RU/30-5.json",
       "filename": "30-5.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 170,
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 110,
       "version": 2,
-      "sha256": "58316aa219c8f484550afcf80ae36dc04de68054ac96a96b4437af88326bfd0a"
+      "sha256": "8c9bb727b43f7b8e56d6b970f8ce4c9c5b1da9cf678006ae7ac8481d66e22ab5"
     },
     {
       "id": "31-4",
@@ -1873,7 +1874,7 @@
       "cols": 10,
       "letterCellCount": 165,
       "version": 2,
-      "sha256": "b6694c249cbedebce7b56e66adcf592100eac55cae2e085a5c69583f3b3ae04d"
+      "sha256": "88c118fafaa927352dffcb42779c21af00fa0a7133d6376673587a543651d4f7"
     },
     {
       "id": "29-10",
@@ -1893,11 +1894,11 @@
       "path": "levels/RU/09-22.json",
       "filename": "09-22.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 166,
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 106,
       "version": 2,
-      "sha256": "e3fc227ede5a363dc57464d137302ec14dae6397add6477b8799e617556b27cd"
+      "sha256": "25e35a488d3ca93e18363113353565f77001f4f83bd45912bea578a431ee9dda"
     },
     {
       "id": "08-30",
@@ -1905,11 +1906,11 @@
       "path": "levels/RU/08-30.json",
       "filename": "08-30.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 170,
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 95,
       "version": 2,
-      "sha256": "ee9fca0fd5a01e30786160a51709eca15c27de056228b8f4259566651456a265"
+      "sha256": "64ef197113c60df62efb80032e744e40cc983874ffb03423b2634f93d530914a"
     },
     {
       "id": "29-11",
@@ -1929,11 +1930,11 @@
       "path": "levels/RU/09-29.json",
       "filename": "09-29.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 169,
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 105,
       "version": 2,
-      "sha256": "8cc28dc065825eae8afa9f6fff1d22ba9d44383620b4a26727da12a3e2e2d1a2"
+      "sha256": "a1210cc00137be897a792e4f927859fa2731df00683c3a8315fa87a8823f8bfc"
     },
     {
       "id": "10-22",
@@ -1941,11 +1942,11 @@
       "path": "levels/RU/10-22.json",
       "filename": "10-22.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 166,
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 111,
       "version": 2,
-      "sha256": "b86f532b108d6e285b290769b8c5a8fdadec507bc28792193bc1f38ac585e09a"
+      "sha256": "e6d7a442eac58240589b6671b141e9d51562240ce303c731e8c214bd3be4cff4"
     },
     {
       "id": "29-16",
@@ -1965,11 +1966,11 @@
       "path": "levels/RU/08-31.json",
       "filename": "08-31.json",
       "difficulty": "medium",
-      "rows": 23,
+      "rows": 15,
       "cols": 10,
-      "letterCellCount": 164,
+      "letterCellCount": 95,
       "version": 2,
-      "sha256": "7c8e704dfe8727b924ad64ab6fc69ac01091a852cf09adc68c7f672b61103ed8"
+      "sha256": "1804d957fdbd6ff691c602c757b5e25e1e013c0e77f741659a49ad84760adafc"
     },
     {
       "id": "09-33",
@@ -2001,11 +2002,11 @@
       "path": "levels/RU/10-38.json",
       "filename": "10-38.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 9,
-      "letterCellCount": 113,
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 102,
       "version": 2,
-      "sha256": "fa46a9d6427fe67f81e0807a1c20dda43093a9133ac26f38c0cf90d0af1099f3"
+      "sha256": "60f587cf16de3b1c4b1db5321db0f385ac2fcb36434801d7197950b81c8a5c0e"
     },
     {
       "id": "11-22",
@@ -2013,11 +2014,11 @@
       "path": "levels/RU/11-22.json",
       "filename": "11-22.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 166,
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 110,
       "version": 2,
-      "sha256": "767ebcfb1bd1aeed5f0175c9cf3f527d81f959accc42c34432abbc2bd512604c"
+      "sha256": "12382f173c95b81f701f7a26c5ec3ac0895aa4fdd5ba9e58de1836990031fa05"
     },
     {
       "id": "29-8",
@@ -2037,11 +2038,11 @@
       "path": "levels/RU/12-22.json",
       "filename": "12-22.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 166,
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 93,
       "version": 2,
-      "sha256": "747af94793da6642b540a5fe3937e94fbaad09764a20760b71e26e504f9e9e61"
+      "sha256": "f5fde5da2259f8214f8ff80dce2a91fe10697e0cd6db530de0e5e790db9a3b8d"
     },
     {
       "id": "13-3",
@@ -2241,11 +2242,11 @@
       "path": "levels/RU/29-9.json",
       "filename": "29-9.json",
       "difficulty": "medium",
-      "rows": 18,
-      "cols": 13,
-      "letterCellCount": 169,
+      "rows": 15,
+      "cols": 10,
+      "letterCellCount": 106,
       "version": 2,
-      "sha256": "2185c01e288eb0e00f85ee5a8a86a4900a173f38c3576a08789432b2b51d5aff"
+      "sha256": "4be7ecb7fccc9b3cde3370956330dd273a8d2cae1aca11a7924071600057f207"
     },
     {
       "id": "30-32",

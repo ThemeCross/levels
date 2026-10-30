@@ -1,0 +1,1510 @@
+{
+  "type": "scanword_project",
+  "version": 2,
+  "cols": 10,
+  "rows": 15,
+  "difficulty": "medium",
+  "cells": [
+    {
+      "id": 0,
+      "r": 0,
+      "c": 0,
+      "val": "",
+      "type": "question",
+      "text": "Имя поэта-гусара Давыдова",
+      "arrow": "arrow-r",
+      "targetWord": "ДЕНИС"
+    },
+    {
+      "id": 1,
+      "r": 0,
+      "c": 1,
+      "val": "Д",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 2,
+      "r": 0,
+      "c": 2,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 3,
+      "r": 0,
+      "c": 3,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 4,
+      "r": 0,
+      "c": 4,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 5,
+      "r": 0,
+      "c": 5,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 6,
+      "r": 0,
+      "c": 6,
+      "val": "",
+      "type": "question",
+      "text": "Стены из брёвен, уложенных венцами",
+      "arrow": "arrow-l-d-plus1",
+      "targetWord": "СРУБ"
+    },
+    {
+      "id": 7,
+      "r": 0,
+      "c": 7,
+      "val": "",
+      "type": "question",
+      "text": "След от ногтей на зудящей коже",
+      "arrow": "arrow-d",
+      "targetWord": "РАСЧЕС"
+    },
+    {
+      "id": 8,
+      "r": 0,
+      "c": 8,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 9,
+      "r": 0,
+      "c": 9,
+      "val": "",
+      "type": "question",
+      "text": "Грубая рабочая одежда",
+      "arrow": "arrow-l-d-plus1",
+      "targetWord": "РОБА"
+    },
+    {
+      "id": 10,
+      "r": 1,
+      "c": 0,
+      "val": "",
+      "type": "question",
+      "text": "Мужчина, работающий на дойке коров",
+      "arrow": "arrow-d-r",
+      "targetWord": "ДОЯР"
+    },
+    {
+      "id": 11,
+      "r": 1,
+      "c": 1,
+      "val": "Ж",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 12,
+      "r": 1,
+      "c": 2,
+      "val": "",
+      "type": "question",
+      "text": "Анджелина ..., актриса",
+      "arrow": "arrow-u-l-d",
+      "targetWord": "ДЖОЛИ"
+    },
+    {
+      "id": 13,
+      "r": 1,
+      "c": 3,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 14,
+      "r": 1,
+      "c": 4,
+      "val": "",
+      "type": "question",
+      "text": "Игра с фишками и игральными костями",
+      "arrow": "arrow-u-l-d",
+      "targetWord": "НАРДЫ"
+    },
+    {
+      "id": 15,
+      "r": 1,
+      "c": 5,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 16,
+      "r": 1,
+      "c": 6,
+      "val": "",
+      "type": "question",
+      "text": "Пчелиная семья, вылетевшая из улья",
+      "arrow": "arrow-r",
+      "targetWord": "РОЙ"
+    },
+    {
+      "id": 17,
+      "r": 1,
+      "c": 7,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 18,
+      "r": 1,
+      "c": 8,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 19,
+      "r": 1,
+      "c": 9,
+      "val": "Й",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 20,
+      "r": 2,
+      "c": 0,
+      "val": "Д",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 21,
+      "r": 2,
+      "c": 1,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 22,
+      "r": 2,
+      "c": 2,
+      "val": "Я",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 23,
+      "r": 2,
+      "c": 3,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 24,
+      "r": 2,
+      "c": 4,
+      "val": "",
+      "type": "question",
+      "text": "Выбоина на дороге",
+      "arrow": "arrow-r",
+      "targetWord": "УХАБ"
+    },
+    {
+      "id": 25,
+      "r": 2,
+      "c": 5,
+      "val": "У",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 26,
+      "r": 2,
+      "c": 6,
+      "val": "Х",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 27,
+      "r": 2,
+      "c": 7,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 28,
+      "r": 2,
+      "c": 8,
+      "val": "Б",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 29,
+      "r": 2,
+      "c": 9,
+      "val": "",
+      "type": "question",
+      "text": "Дорога, маршрут",
+      "arrow": "arrow-d",
+      "targetWord": "ПУТЬ"
+    },
+    {
+      "id": 30,
+      "r": 3,
+      "c": 0,
+      "val": "",
+      "type": "question",
+      "text": "Кукла в виде малыша",
+      "arrow": "arrow-d",
+      "targetWord": "ПУПС"
+    },
+    {
+      "id": 31,
+      "r": 3,
+      "c": 1,
+      "val": "Л",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 32,
+      "r": 3,
+      "c": 2,
+      "val": "",
+      "type": "question",
+      "text": "Дерево у лукоморья в стихах Пушкина",
+      "arrow": "arrow-r",
+      "targetWord": "ДУБ"
+    },
+    {
+      "id": 33,
+      "r": 3,
+      "c": 3,
+      "val": "Д",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 34,
+      "r": 3,
+      "c": 4,
+      "val": "У",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 35,
+      "r": 3,
+      "c": 5,
+      "val": "Б",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 36,
+      "r": 3,
+      "c": 6,
+      "val": "",
+      "type": "block",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 37,
+      "r": 3,
+      "c": 7,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 38,
+      "r": 3,
+      "c": 8,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 39,
+      "r": 3,
+      "c": 9,
+      "val": "П",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 40,
+      "r": 4,
+      "c": 0,
+      "val": "П",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 41,
+      "r": 4,
+      "c": 1,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 42,
+      "r": 4,
+      "c": 2,
+      "val": "М",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 43,
+      "r": 4,
+      "c": 3,
+      "val": "Ы",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 44,
+      "r": 4,
+      "c": 4,
+      "val": "",
+      "type": "question",
+      "text": "Длинная черта между словами",
+      "arrow": "arrow-d",
+      "targetWord": "ТИРЕ"
+    },
+    {
+      "id": 45,
+      "r": 4,
+      "c": 5,
+      "val": "",
+      "type": "question",
+      "text": "Толкушка для ступки",
+      "arrow": "arrow-d-r-plus1",
+      "targetWord": "ПЕСТ"
+    },
+    {
+      "id": 46,
+      "r": 4,
+      "c": 6,
+      "val": "",
+      "type": "question",
+      "text": "Ремень вокруг талии",
+      "arrow": "arrow-d",
+      "targetWord": "ПОЯС"
+    },
+    {
+      "id": 47,
+      "r": 4,
+      "c": 7,
+      "val": "Ч",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 48,
+      "r": 4,
+      "c": 8,
+      "val": "",
+      "type": "question",
+      "text": "Место стоянки, лагерь",
+      "arrow": "arrow-d",
+      "targetWord": "СТАН"
+    },
+    {
+      "id": 49,
+      "r": 4,
+      "c": 9,
+      "val": "У",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 50,
+      "r": 5,
+      "c": 0,
+      "val": "У",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 51,
+      "r": 5,
+      "c": 1,
+      "val": "",
+      "type": "question",
+      "text": "Меховые сапоги ненцев",
+      "arrow": "arrow-l-u-r",
+      "targetWord": "ПИМЫ"
+    },
+    {
+      "id": 52,
+      "r": 5,
+      "c": 2,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 53,
+      "r": 5,
+      "c": 3,
+      "val": "",
+      "type": "question",
+      "text": "Мирей ..., певица из Франции",
+      "arrow": "arrow-u-l-d",
+      "targetWord": "МАТЬЕ"
+    },
+    {
+      "id": 54,
+      "r": 5,
+      "c": 4,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 55,
+      "r": 5,
+      "c": 5,
+      "val": "",
+      "type": "question",
+      "text": "Сила действия тела на опору или подвес",
+      "arrow": "arrow-d",
+      "targetWord": "ВЕС"
+    },
+    {
+      "id": 56,
+      "r": 5,
+      "c": 6,
+      "val": "П",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 57,
+      "r": 5,
+      "c": 7,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 58,
+      "r": 5,
+      "c": 8,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 59,
+      "r": 5,
+      "c": 9,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 60,
+      "r": 6,
+      "c": 0,
+      "val": "П",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 61,
+      "r": 6,
+      "c": 1,
+      "val": "Ы",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 62,
+      "r": 6,
+      "c": 2,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 63,
+      "r": 6,
+      "c": 3,
+      "val": "Л",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 64,
+      "r": 6,
+      "c": 4,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 65,
+      "r": 6,
+      "c": 5,
+      "val": "В",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 66,
+      "r": 6,
+      "c": 6,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 67,
+      "r": 6,
+      "c": 7,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 68,
+      "r": 6,
+      "c": 8,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 69,
+      "r": 6,
+      "c": 9,
+      "val": "Ь",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 70,
+      "r": 7,
+      "c": 0,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 71,
+      "r": 7,
+      "c": 1,
+      "val": "",
+      "type": "question",
+      "text": "Живой интерес к познанию",
+      "arrow": "arrow-l-u-r",
+      "targetWord": "ПЫТЛИВОСТЬ"
+    },
+    {
+      "id": 72,
+      "r": 7,
+      "c": 2,
+      "val": "Ь",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 73,
+      "r": 7,
+      "c": 3,
+      "val": "",
+      "type": "question",
+      "text": "Брус поперёк мачты",
+      "arrow": "arrow-r",
+      "targetWord": "РЕЯ"
+    },
+    {
+      "id": 74,
+      "r": 7,
+      "c": 4,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 75,
+      "r": 7,
+      "c": 5,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 76,
+      "r": 7,
+      "c": 6,
+      "val": "Я",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 77,
+      "r": 7,
+      "c": 7,
+      "val": "",
+      "type": "question",
+      "text": "Природный алкалоид из белладонны",
+      "arrow": "arrow-d",
+      "targetWord": "АТРОПИН"
+    },
+    {
+      "id": 78,
+      "r": 7,
+      "c": 8,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 79,
+      "r": 7,
+      "c": 9,
+      "val": "",
+      "type": "question",
+      "text": "Короткий бой",
+      "arrow": "arrow-d",
+      "targetWord": "СХВАТКА"
+    },
+    {
+      "id": 80,
+      "r": 8,
+      "c": 0,
+      "val": "",
+      "type": "question",
+      "text": "Эпоха Рафаэля и Леонардо",
+      "arrow": "arrow-r",
+      "targetWord": "РЕНЕССАНС"
+    },
+    {
+      "id": 81,
+      "r": 8,
+      "c": 1,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 82,
+      "r": 8,
+      "c": 2,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 83,
+      "r": 8,
+      "c": 3,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 84,
+      "r": 8,
+      "c": 4,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 85,
+      "r": 8,
+      "c": 5,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 86,
+      "r": 8,
+      "c": 6,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 87,
+      "r": 8,
+      "c": 7,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 88,
+      "r": 8,
+      "c": 8,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 89,
+      "r": 8,
+      "c": 9,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 90,
+      "r": 9,
+      "c": 0,
+      "val": "",
+      "type": "question",
+      "text": "Готовит еду в ресторане",
+      "arrow": "arrow-d",
+      "targetWord": "ПОВАР"
+    },
+    {
+      "id": 91,
+      "r": 9,
+      "c": 1,
+      "val": "",
+      "type": "question",
+      "text": "Станок для сжатия материалов",
+      "arrow": "arrow-l-d-r",
+      "targetWord": "ПРЕСС"
+    },
+    {
+      "id": 92,
+      "r": 9,
+      "c": 2,
+      "val": "",
+      "type": "question",
+      "text": "Человек, едущий на лошади или повозке",
+      "arrow": "arrow-d",
+      "targetWord": "ЕЗДОК"
+    },
+    {
+      "id": 93,
+      "r": 9,
+      "c": 3,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 94,
+      "r": 9,
+      "c": 4,
+      "val": "",
+      "type": "question",
+      "text": "Орган обоняния",
+      "arrow": "arrow-u-l-d",
+      "targetWord": "НОС"
+    },
+    {
+      "id": 95,
+      "r": 9,
+      "c": 5,
+      "val": "",
+      "type": "question",
+      "text": "Финляндия по-фински",
+      "arrow": "arrow-l-d-plus1",
+      "targetWord": "СУОМИ"
+    },
+    {
+      "id": 96,
+      "r": 9,
+      "c": 6,
+      "val": "",
+      "type": "question",
+      "text": "Ветви дерева с листвой",
+      "arrow": "arrow-d",
+      "targetWord": "КРОНА"
+    },
+    {
+      "id": 97,
+      "r": 9,
+      "c": 7,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 98,
+      "r": 9,
+      "c": 8,
+      "val": "",
+      "type": "question",
+      "text": "Следственное действие по поиску улик",
+      "arrow": "arrow-d",
+      "targetWord": "ОБЫСК"
+    },
+    {
+      "id": 99,
+      "r": 9,
+      "c": 9,
+      "val": "Х",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 100,
+      "r": 10,
+      "c": 0,
+      "val": "П",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 101,
+      "r": 10,
+      "c": 1,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 102,
+      "r": 10,
+      "c": 2,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 103,
+      "r": 10,
+      "c": 3,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 104,
+      "r": 10,
+      "c": 4,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 105,
+      "r": 10,
+      "c": 5,
+      "val": "",
+      "type": "question",
+      "text": "Приют, жилище",
+      "arrow": "arrow-r",
+      "targetWord": "КРОВ"
+    },
+    {
+      "id": 106,
+      "r": 10,
+      "c": 6,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 107,
+      "r": 10,
+      "c": 7,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 108,
+      "r": 10,
+      "c": 8,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 109,
+      "r": 10,
+      "c": 9,
+      "val": "В",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 110,
+      "r": 11,
+      "c": 0,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 111,
+      "r": 11,
+      "c": 1,
+      "val": "",
+      "type": "question",
+      "text": "Сосуд с дужкой для воды",
+      "arrow": "arrow-l-d-r",
+      "targetWord": "ВЕДРО"
+    },
+    {
+      "id": 112,
+      "r": 11,
+      "c": 2,
+      "val": "З",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 113,
+      "r": 11,
+      "c": 3,
+      "val": "",
+      "type": "question",
+      "text": "Живот, чрево (устар.)",
+      "arrow": "arrow-r",
+      "targetWord": "УТРОБА"
+    },
+    {
+      "id": 114,
+      "r": 11,
+      "c": 4,
+      "val": "У",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 115,
+      "r": 11,
+      "c": 5,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 116,
+      "r": 11,
+      "c": 6,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 117,
+      "r": 11,
+      "c": 7,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 118,
+      "r": 11,
+      "c": 8,
+      "val": "Б",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 119,
+      "r": 11,
+      "c": 9,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 120,
+      "r": 12,
+      "c": 0,
+      "val": "В",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 121,
+      "r": 12,
+      "c": 1,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 122,
+      "r": 12,
+      "c": 2,
+      "val": "Д",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 123,
+      "r": 12,
+      "c": 3,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 124,
+      "r": 12,
+      "c": 4,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 125,
+      "r": 12,
+      "c": 5,
+      "val": "",
+      "type": "question",
+      "text": "Знания, полученные на практике",
+      "arrow": "arrow-r",
+      "targetWord": "ОПЫТ"
+    },
+    {
+      "id": 126,
+      "r": 12,
+      "c": 6,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 127,
+      "r": 12,
+      "c": 7,
+      "val": "П",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 128,
+      "r": 12,
+      "c": 8,
+      "val": "Ы",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 129,
+      "r": 12,
+      "c": 9,
+      "val": "Т",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 130,
+      "r": 13,
+      "c": 0,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 131,
+      "r": 13,
+      "c": 1,
+      "val": "",
+      "type": "question",
+      "text": "Боксёр Бальбоа из фильмов со Сталлоне",
+      "arrow": "arrow-l-d-r",
+      "targetWord": "РОККИ"
+    },
+    {
+      "id": 132,
+      "r": 13,
+      "c": 2,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 133,
+      "r": 13,
+      "c": 3,
+      "val": "",
+      "type": "question",
+      "text": "Хрящевая прокладка в колене",
+      "arrow": "arrow-r",
+      "targetWord": "МЕНИСК"
+    },
+    {
+      "id": 134,
+      "r": 13,
+      "c": 4,
+      "val": "М",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 135,
+      "r": 13,
+      "c": 5,
+      "val": "Е",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 136,
+      "r": 13,
+      "c": 6,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 137,
+      "r": 13,
+      "c": 7,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 138,
+      "r": 13,
+      "c": 8,
+      "val": "С",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 139,
+      "r": 13,
+      "c": 9,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 140,
+      "r": 14,
+      "c": 0,
+      "val": "Р",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 141,
+      "r": 14,
+      "c": 1,
+      "val": "О",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 142,
+      "r": 14,
+      "c": 2,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 143,
+      "r": 14,
+      "c": 3,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 144,
+      "r": 14,
+      "c": 4,
+      "val": "И",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 145,
+      "r": 14,
+      "c": 5,
+      "val": "",
+      "type": "question",
+      "text": "Героиня фильма «Чапаев» с пулемётом",
+      "arrow": "arrow-r",
+      "targetWord": "АНКА"
+    },
+    {
+      "id": 146,
+      "r": 14,
+      "c": 6,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 147,
+      "r": 14,
+      "c": 7,
+      "val": "Н",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 148,
+      "r": 14,
+      "c": 8,
+      "val": "К",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    },
+    {
+      "id": 149,
+      "r": 14,
+      "c": 9,
+      "val": "А",
+      "type": "letter",
+      "text": "",
+      "arrow": "",
+      "targetWord": ""
+    }
+  ],
+  "images": []
+}
